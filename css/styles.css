@@ -1,3 +1,9 @@
+body {
+	background-image: "https://cdn.pixabay.com/photo/2017/08/06/14/12/bokeh-lights-2592859_960_720.jpg";
+	background-color: #97b7be;
+}
+
+
 .Fancy-Heading {
 	color:goldenrod;
 	font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -38,3 +44,7 @@
 	width: 300px;
 	float: left;
 }
+
+	
+
+
