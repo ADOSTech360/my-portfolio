@@ -42,4 +42,5 @@ body {
 .column {
 	width: 315px;
 	float: left;
+	padding: 20%;
 }
