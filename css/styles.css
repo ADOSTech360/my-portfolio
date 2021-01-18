@@ -42,5 +42,4 @@ body {
 .column {
 	column-count: 3;
   column-gap: 40px;
-	float: left;
 }
