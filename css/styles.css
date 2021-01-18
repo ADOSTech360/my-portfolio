@@ -40,7 +40,7 @@ body {
 }
 
 .column {
-	width: 315px;
+	column-count: 3;
+  column-gap: 40px;
 	float: left;
-	padding: 20%;
 }
