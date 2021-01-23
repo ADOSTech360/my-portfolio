@@ -11,7 +11,7 @@
 <h4> Git hub pages link:<h4>
   <p> <a href="https://adostech360.github.io/my-portfolio/"> </p>
 <h4> Known Bugs </h4>
-<p><ul> No known bugs </ul></p>
+<p> No known bugs </p>
 <h4> License </h4>
 <p> GPL </p>
 <p> Copyright Darien West 2021 </hp>
