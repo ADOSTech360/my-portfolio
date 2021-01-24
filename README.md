@@ -4,18 +4,18 @@
 <h1> My Portfolio </h1>
 <h4> Darien West </h4>
 <p>This program displays information about me and my journey to Epicodus.</p> 
-<h4> The technology used in this program is: </h4>
-<ul> 
-  <li>HTML</li>
-   <li>CSS</li>
- </ul>
+<h4> The technology used in this program is:</h4>
+  <ul> 
+    <li>HTML</li>
+    <li>CSS</li>
+  </ul>
 <h4> Git hub pages link:<h4>
   <p> <a href="https://adostech360.github.io/my-portfolio/"> </p>
 <h4> Known Bugs </h4>
 <p> No known bugs </p>
 <h4> License </h4>
-<p> GPL </p>
-<p> Copyright Darien West 2021 </hp>
+  <p> GPL </p>  
+  <p> Copyright Darien West 2021 </hp>
 <h4> Setup/Installation Requirements </h4>
   <ul>
     <li> Clone repository to desktop </l1>
