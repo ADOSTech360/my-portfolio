@@ -6,7 +6,7 @@
 <h2>This program displays information about me and my journey to Epicodus.</h2> 
 <h2> This program does not currently require any setup simply a connection to the Internet will suffice. </h2>
 <h2> The technology used in this program is: </h2>
-*<ul> HTML </ul>
+<ul> HTML </ul>
 <ul> CSS </ul>
 <h2> Git hub pages link:<h2>
   <p> <a href="https://adostech360.github.io/my-portfolio/">
@@ -22,4 +22,5 @@
     <li> Open index.html in your browser </li>
   </ul>
 <h2> Contact Information </h2>
-<a href="mailto:dwestcodes@gmail.com"> Darien West</a>
+Darien West
+dwestcodes@gmail.com </a>
