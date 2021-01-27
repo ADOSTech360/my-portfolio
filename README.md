@@ -16,6 +16,10 @@
 <p> GPL </p>
 <h2> Copyright Darien West 2021 </h2>
 <h2> Setup/Installation Requirements </h2>
-<p> Clone repository to desktop </p>
+  <ul>
+    <li> Clone repository to desktop </l1>
+    <li> Navigate to top level of the directory </l1>
+    <li> Open index.html in your browser </li>
+  </ul>
 <h2> Contact Information </h2>
 <a href="mailto:dwestcodes@gmail.com"> Darien West</a>
